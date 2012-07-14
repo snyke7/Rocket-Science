@@ -1,1 +1,4 @@
 Yay! Got it working :)
+To decompile IC2 I used immibis' bearded octo nemesis: https://github.com/immibis/bearded-octo-nemesis
+Bearded octo-nemesis deobfuscates class files without decompiling them, then I decompiled the deobfuscated code with JD-GUI
+You still end up with around a 100 errors, but those are easily fixed.
